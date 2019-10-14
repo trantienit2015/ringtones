@@ -1,0 +1,389 @@
+[
+    {
+        "id": 1,
+        "title": "Alarm",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 18,
+        "rate": 4.9,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm.m4r"
+    },
+    {
+        "id": 2,
+        "title": "Alarm 2",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 22,
+        "rate": 4.7,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm 2.m4r"
+    },
+    {
+        "id": 3,
+        "title": "Alarm 3",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 20,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm 3.m4r"
+    },
+    {
+        "id": 4,
+        "title": "Alarm Alarm",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 5,
+        "rate": 4.9,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Alarm.m4r"
+    },
+    {
+        "id": 5,
+        "title": "Alarm Alarm Alarm",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 6,
+        "rate": 4.4,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Alarm Alarm.m4r"
+    },
+    {
+        "id": 6,
+        "title": "Alarm Army",
+        "genre": "no Artist",
+        "artist": "Wiz Khalifa (Rolling Papers) (2o11)",
+        "duration": 29,
+        "rate": 4.8,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Army.m4r"
+    },
+    {
+        "id": 7,
+        "title": "Alarm Beeps",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Beeps.m4r"
+    },
+    {
+        "id": 8,
+        "title": "Alarm Beep 1",
+        "genre": "Alarm RingTonep",
+        "artist": "no Artist",
+        "duration": 2,
+        "rate": 4.6,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Beep 1.m4r"
+    },
+    {
+        "id": 9,
+        "title": "Alarm Bird Clock",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 4,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Bird Clock.m4r"
+    },
+    {
+        "id": 10,
+        "title": "Alarm Car",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Car.m4r"
+    },
+    {
+        "id": 11,
+        "title": "Alarm Classic",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Classic.m4r"
+    },
+    {
+        "id": 12,
+        "title": "Alarm Clock 2",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock 2.m4r"
+    },
+    {
+        "id": 13,
+        "title": "Alarm Clock 3",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock 3.m4r"
+    },
+    {
+        "id": 14,
+        "title": "Alarm Clock 4",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock 4.m4r"
+    },
+    {
+        "id": 15,
+        "title": "Alarm Clock 5",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock 5.m4r"
+    },
+    {
+        "id": 16,
+        "title": "Alarm Clock 6",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock 6.m4r"
+    },
+    {
+        "id": 17,
+        "title": "Alarm Clock 7",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock 7.m4r"
+    },
+    {
+        "id": 18,
+        "title": "Alarm Clock Classic",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock Classic.m4r"
+    },
+    {
+        "id": 19,
+        "title": "Alarm Clock Fanfare",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock Fanfare.m4r"
+    },
+    {
+        "id": 20,
+        "title": "Alarm Clock GTA6",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock GTA6.m4r"
+    },
+    {
+        "id": 21,
+        "title": "Alarm Clock Tonight",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock Tonight.m4r"
+    },
+    {
+        "id": 22,
+        "title": "Alarm Clock",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Clock.m4r"
+    },
+    {
+        "id": 23,
+        "title": "Alarm Dubstep",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Dubstep.m4r"
+    },
+    {
+        "id": 24,
+        "title": "Alarm In Camp",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm In Camp.m4r"
+    },
+    {
+        "id": 25,
+        "title": "Alarm Invasion",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Invasion.m4r"
+    },
+    {
+        "id": 26,
+        "title": "Alarm Loud",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Loud.m4r"
+    },
+    {
+        "id": 27,
+        "title": "Alarm Loving You",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Loving You.m4r"
+    },
+    {
+        "id": 28,
+        "title": "Alarm Message 2",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Message 2.m4r"
+    },
+    {
+        "id": 29,
+        "title": "Alarm Message",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Message.m4r"
+    },
+    {
+        "id": 30,
+        "title": "Alarm Mix",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Mix.m4r"
+    },
+    {
+        "id": 31,
+        "title": "Alarm Music",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Music.m4r"
+    },
+    {
+        "id": 32,
+        "title": "Alarm Noise",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Noise.m4r"
+    },
+    {
+        "id": 33,
+        "title": "Alarm Quartz",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Quartz.m4r"
+    },
+    {
+        "id": 34,
+        "title": "Alarm Rooster",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Rooster.m4r"
+    },
+    {
+        "id": 35,
+        "title": "Alarm Sound Tropical",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Sound Tropical.m4r"
+    },
+    {
+        "id": 36,
+        "title": "Alarm Sound",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Sound.m4r"
+    },
+    {
+        "id": 37,
+        "title": "Alarm Tone 2",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Tone 2.m4r"
+    },
+    {
+        "id": 38,
+        "title": "Alarm Tone",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Tone.m4r"
+    },
+    {
+        "id": 39,
+        "title": "Alarm VS Turbo",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm VS Turbo.m4r"
+    },
+    {
+        "id": 40,
+        "title": "Alarm Wakeup Remix",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Wakeup Remix.m4r"
+    },
+    {
+        "id": 41,
+        "title": "Alarm Windows 10",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Alarm Windows 10.m4r"
+    },
+    {
+        "id": 42,
+        "title": "Extreme Alarm Clock",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Extreme Alarm Clock.m4r"
+    },
+    {
+        "id": 43,
+        "title": "Perfect Alarm",
+        "genre": "Alarm RingTone",
+        "artist": "no Artist",
+        "duration": 8,
+        "rate": 4.5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/AlarmRingFiles/Perfect Alarm.m4r"
+    }
+]

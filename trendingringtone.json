@@ -1,0 +1,974 @@
+[
+    {
+        "id": 1,
+        "title": "A Song For Mama",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/A Song For Mama.m4r"
+    },
+    {
+        "id": 2,
+        "title": "Addams Family",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 23,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Addams Family.m4r"
+    },
+    {
+        "id": 3,
+        "title": "Alarm",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 18,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Alarm.m4r"
+    },
+    {
+        "id": 4,
+        "title": "All Of Me",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/All Of Me.m4r"
+    },
+    {
+        "id": 5,
+        "title": "Army Wake Up",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 21,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Army Wake Up.m4r"
+    },
+    {
+        "id": 108,
+        "title": "Ava Max - So Am I",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Ava Max - So Am I.m4r"
+    },
+    {
+        "id": 6,
+        "title": "Baby Shark Dodo",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 8,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Baby Shark Dodo.m4r"
+    },
+    {
+        "id": 7,
+        "title": "Bad To The Bone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 26,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Bad To The Bone.m4r"
+    },
+    {
+        "id": 8,
+        "title": "Be Happy",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Be Happy.m4r"
+    },
+    {
+        "id": 9,
+        "title": "Beautiful Crazy",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Beautiful Crazy.m4r"
+    },
+    {
+        "id": 10,
+        "title": "Boss is Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 9,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Boss is Calling.m4r"
+    },
+    {
+        "id": 11,
+        "title": "Brett Young - Mercy Ringtone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Brett Young - Mercy Ringtone.m4r"
+    },
+    {
+        "id": 12,
+        "title": "Bullshitter Alert",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 16,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Bullshitter Alert.m4r"
+    },
+    {
+        "id": 13,
+        "title": "Calma Pedro Capo",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Calma Pedro Capo.m4r"
+    },
+    {
+        "id": 14,
+        "title": "Cardi B - I Like It",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 25,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Cardi B - I Like It.m4r"
+    },
+    {
+        "id": 15,
+        "title": "Cardi B Please Me",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Cardi B Please Me.m4r"
+    },
+    {
+        "id": 16,
+        "title": "Ciu Ciu",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Ciu Ciu.m4r"
+    },
+    {
+        "id": 17,
+        "title": "Con Calma",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Con Calma.m4r"
+    },
+    {
+        "id": 18,
+        "title": "Dababy Suge",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 13,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Dababy Suge.m4r"
+    },
+    {
+        "id": 19,
+        "title": "Daughter is Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 9,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Daughter is Calling.m4r"
+    },
+    {
+        "id": 20,
+        "title": "Dear Mama",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 23,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Dear Mama.m4r"
+    },
+    {
+        "id": 21,
+        "title": "Detstvo",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Detstvo.m4r"
+    },
+    {
+        "id": 22,
+        "title": "Doctor Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 25,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Doctor Calling.m4r"
+    },
+    {
+        "id": 23,
+        "title": "Dont Call Me Mabel",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Dont Call Me Mabel.m4r"
+    },
+    {
+        "id": 24,
+        "title": "Dont Stop Believin",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Dont Stop Believin.m4r"
+    },
+    {
+        "id": 25,
+        "title": "Drift Away",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 18,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Drift Away.m4r"
+    },
+    {
+        "id": 26,
+        "title": "Dynoro In My Mind",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Dynoro In My Mind.m4r"
+    },
+    {
+        "id": 27,
+        "title": "Ed Shape Of You",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Ed Shape Of You.m4r"
+    },
+    {
+        "id": 28,
+        "title": "Farts",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Farts.m4r"
+    },
+    {
+        "id": 29,
+        "title": "Firestone (Launchpad Cover)",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Firestone (Launchpad Cover).m4r"
+    },
+    {
+        "id": 30,
+        "title": "Get Up",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 12,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Get Up.m4r"
+    },
+    {
+        "id": 31,
+        "title": "Giant 2019",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Giant 2019.m4r"
+    },
+    {
+        "id": 32,
+        "title": "Gods Country",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 16,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Gods Country.m4r"
+    },
+    {
+        "id": 33,
+        "title": "Goodbyes Postmalone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Goodbyes Postmalone.m4r"
+    },
+    {
+        "id": 34,
+        "title": "Grandma Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Grandma Calling.m4r"
+    },
+    {
+        "id": 35,
+        "title": "Green Acres",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 16,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Green Acres.m4r"
+    },
+    {
+        "id": 36,
+        "title": "Guitar Riff",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 3,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Guitar Riff.m4r"
+    },
+    {
+        "id": 37,
+        "title": "Halloween Movie",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Halloween Movie.m4r"
+    },
+    {
+        "id": 38,
+        "title": "Harley Davidson Best",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 24,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Harley Davidson Best.m4r"
+    },
+    {
+        "id": 39,
+        "title": "Heaven",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Heaven.m4r"
+    },
+    {
+        "id": 40,
+        "title": "Hotel California",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 25,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Hotel California.m4r"
+    },
+    {
+        "id": 41,
+        "title": "I Dont Care - JBieber",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/I Dont Care - JBieber.m4r"
+    },
+    {
+        "id": 42,
+        "title": "I See You",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 6,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/I See You.m4r"
+    },
+    {
+        "id": 43,
+        "title": "Idragons - Bad Liar",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Idragons - Bad Liar.m4r"
+    },
+    {
+        "id": 44,
+        "title": "In Case U Didnt No",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/In Case U Didnt No.m4r"
+    },
+    {
+        "id": 45,
+        "title": "iPhone Bliss Ring",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 9,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/iPhone Bliss Ring.m4r"
+    },
+    {
+        "id": 46,
+        "title": "Irish Rock",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 16,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Irish Rock.m4r"
+    },
+    {
+        "id": 47,
+        "title": "Ironman Repulsor In",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 1,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Ironman Repulsor In.m4r"
+    },
+    {
+        "id": 48,
+        "title": "Jennie Solo",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 28,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Jennie Solo.m4r"
+    },
+    {
+        "id": 49,
+        "title": "Jesus take the wheel",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 18,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Jesus take the wheel.m4r"
+    },
+    {
+        "id": 50,
+        "title": "Kazka Cry En",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Kazka Cry En.m4r"
+    },
+    {
+        "id": 51,
+        "title": "Kiki Do You Love Me",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Kiki Do You Love Me.m4r"
+    },
+    {
+        "id": 52,
+        "title": "Kill Bill - Whistle",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 20,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Kill Bill - Whistle.m4r"
+    },
+    {
+        "id": 53,
+        "title": "Knockin Boots",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Knockin Boots.m4r"
+    },
+    {
+        "id": 54,
+        "title": "Leave Me Alone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Leave Me Alone.m4r"
+    },
+    {
+        "id": 55,
+        "title": "Let Me Down Slowly",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 28,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Let Me Down Slowly.m4r"
+    },
+    {
+        "id": 56,
+        "title": "Lil Bebe",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 17,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Lil Bebe.m4r"
+    },
+    {
+        "id": 57,
+        "title": "Loco Contigo",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Loco Contigo.m4r"
+    },
+    {
+        "id": 58,
+        "title": "Mario Bros Metal",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Mario Bros Metal.m4r"
+    },
+    {
+        "id": 59,
+        "title": "Meant To Be",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 24,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Meant To Be.m4r"
+    },
+    {
+        "id": 60,
+        "title": "Mom Mom Mom",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 24,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Mom Mom Mom.m4r"
+    },
+    {
+        "id": 61,
+        "title": "New iPhone XI 2019",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 12,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/New iPhone XI 2019.m4r"
+    },
+    {
+        "id": 62,
+        "title": "Niece is Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 9,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Niece is Calling.m4r"
+    },
+    {
+        "id": 63,
+        "title": "Nightmare Christmas",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Nightmare Christmas.m4r"
+    },
+    {
+        "id": 64,
+        "title": "Ocean Karol G",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Ocean Karol G.m4r"
+    },
+    {
+        "id": 65,
+        "title": "Old Telephone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 20,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Old Telephone.m4r"
+    },
+    {
+        "id": 66,
+        "title": "One Call Away",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/One Call Away.m4r"
+    },
+    {
+        "id": 67,
+        "title": "Piece Of Your Heart",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Piece Of Your Heart.m4r"
+    },
+    {
+        "id": 68,
+        "title": "Please Me Cardi B",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Please Me Cardi B.m4r"
+    },
+    {
+        "id": 69,
+        "title": "Polo G - Pop Out (feat. Lil TJay)",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 23,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Polo G - Pop Out (feat. Lil TJay).m4r"
+    },
+    {
+        "id": 70,
+        "title": "Post Malone, Swae Lee - Sunflower (Spider-Man_ Into the Spider-Verse) Ringtone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 21,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Post Malone, Swae Lee - Sunflower (Spider-Man_ Into the Spider-Verse) Ringtone.m4r"
+    },
+    {
+        "id": 71,
+        "title": "Ringtone 11_2",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 19,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Ringtone 11_2.m4r"
+    },
+    {
+        "id": 72,
+        "title": "ringtone_11",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 17,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/ringtone_11.m4r"
+    },
+    {
+        "id": 73,
+        "title": "Rumor 1",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Rumor 1.m4r"
+    },
+    {
+        "id": 74,
+        "title": "SAD - XXXtentacion",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/SAD - XXXtentacion.m4r"
+    },
+    {
+        "id": 75,
+        "title": "Samsung Galaxy S10",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 18,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Samsung Galaxy S10.m4r"
+    },
+    {
+        "id": 76,
+        "title": "Sanford And Son",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Sanford And Son.m4r"
+    },
+    {
+        "id": 77,
+        "title": "Secreto Karol G",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Secreto Karol G.m4r"
+    },
+    {
+        "id": 78,
+        "title": "See You Again",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 28,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/See You Again.m4r"
+    },
+    {
+        "id": 79,
+        "title": "Senorita 2019",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Senorita 2019.m4r"
+    },
+    {
+        "id": 80,
+        "title": "Senorita",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Senorita.m4r"
+    },
+    {
+        "id": 81,
+        "title": "Simple Man",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Simple Man.m4r"
+    },
+    {
+        "id": 82,
+        "title": "Sister Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 21,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Sister Calling.m4r"
+    },
+    {
+        "id": 83,
+        "title": "Skyfall 007",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Skyfall 007.m4r"
+    },
+    {
+        "id": 84,
+        "title": "Someone You Loved",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Someone You Loved.m4r"
+    },
+    {
+        "id": 85,
+        "title": "Son is Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 9,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Son is Calling.m4r"
+    },
+    {
+        "id": 86,
+        "title": "Sunflower Postmalone",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Sunflower Postmalone.m4r"
+    },
+    {
+        "id": 87,
+        "title": "Sweet But Psycho",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Sweet But Psycho.m4r"
+    },
+    {
+        "id": 88,
+        "title": "Sweet Child Of Mine",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 15,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Sweet Child Of Mine.m4r"
+    },
+    {
+        "id": 89,
+        "title": "Talk Khalid",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Talk Khalid.m4r"
+    },
+    {
+        "id": 90,
+        "title": "Tayduky",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Tayduky.m4r"
+    },
+    {
+        "id": 91,
+        "title": "tennesse whiskey",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 19,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/tennesse whiskey.m4r"
+    },
+    {
+        "id": 92,
+        "title": "Text Message",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 10,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Text Message.m4r"
+    },
+    {
+        "id": 93,
+        "title": "The Git Up",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/The Git Up.m4r"
+    },
+    {
+        "id": 94,
+        "title": "Thunderstruck Acdc",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Thunderstruck Acdc.m4r"
+    },
+    {
+        "id": 95,
+        "title": "Un Ano - Sebastian",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 27,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Un Ano - Sebastian.m4r"
+    },
+    {
+        "id": 96,
+        "title": "Uptown Funk",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Uptown Funk.m4r"
+    },
+    {
+        "id": 97,
+        "title": "Warning",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Warning.m4r"
+    },
+    {
+        "id": 98,
+        "title": "We Are Family Music",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/We Are Family Music.m4r"
+    },
+    {
+        "id": 99,
+        "title": "Whistle Hunger Game",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 3,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Whistle Hunger Game.m4r"
+    },
+    {
+        "id": 100,
+        "title": "Whoop Somebody",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 19,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Whoop Somebody.m4r"
+    },
+    {
+        "id": 101,
+        "title": "Without Me - Halsey",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Without Me - Halsey.m4r"
+    },
+    {
+        "id": 102,
+        "title": "Worth It YK",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 30,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Worth It YK.m4r"
+    },
+    {
+        "id": 103,
+        "title": "Yo Phone is Ringing",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 29,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Yo Phone is Ringing.m4r"
+    },
+    {
+        "id": 104,
+        "title": "You Make it Easy",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 20,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/You Make it Easy.m4r"
+    },
+    {
+        "id": 105,
+        "title": "Your Brothers Calling",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 19,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Your Brothers Calling.m4r"
+    },
+    {
+        "id": 106,
+        "title": "Zombie",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 12,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Zombie.m4r"
+    },
+    {
+        "id": 107,
+        "title": "Zunea - Zunea 2",
+        "genre": "Trendings",
+        "artist": "no Aritist",
+        "duration": 17,
+        "rate": 5,
+        "filename": "https://raw.githubusercontent.com/trantienit2015/ringtones/master/TrendingRingFiles/Zunea - Zunea 2.m4r"
+    }
+]
